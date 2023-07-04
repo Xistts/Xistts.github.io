@@ -294,7 +294,12 @@
   /*---------------------------------------
      HERO                
   -----------------------------------------*/
-
+.fon{
+	background-image: url(../images/fon.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
   .hero-title,
   .email-link {
     background: var(--dark-color);
